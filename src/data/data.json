@@ -80,32 +80,44 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "title":"Yagye Sika",
+      "link":"#",
+      "text": "\"A deep dive into the conundrum of alleviating brokeness in the body of Christ by tapping into the everlasting riches of the Father.\"",
+      "name": "Terry Kyrios"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "title":"Yagye Sika",
+      "link":"#",
+      "text": "\"A deep dive into the conundrum of alleviating brokeness in the body of Christ by tapping into the everlasting riches of the Father\"",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "title":"Yagye Sika",
+      "link":"#",
+      "text": "\"A deep dive into the conundrum of alleviating brokeness in the body of Christ by tapping into the everlasting riches of the Father.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "title":"Yagye Sika",
+      "link":"#",
+      "text": "\"A deep dive into the conundrum of alleviating brokeness in the body of Christ by tapping into the everlasting riches of the Father.\"",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "title":"Yagye Sika",
+      "link":"#",
+      "text": "\"A deep dive into the conundrum of alleviating brokeness in the body of Christ by tapping into the everlasting riches of the Father.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "title":"Yagye Sika",
+      "link":"#",
+      "text": "\"A deep dive into the conundrum of alleviating brokeness in the body of Christ by tapping into the everlasting riches of the Father.\"",
       "name": "Johnathan Doe"
     }
   ],
